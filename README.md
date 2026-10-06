@@ -1,2 +1,2 @@
 # Workus
-这是一个由本人制作的聊天软件(其实也不算软件吧,喜欢的话,给我颗星,不喜欢可以留下建议,谢谢)
+This is a chat application created by me (though it's not really a full-fledged software, after all). If you like it, please give it a star. If not, feel free to leave suggestions. Thank you!
